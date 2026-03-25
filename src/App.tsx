@@ -6,17 +6,13 @@ import Aurora          from '@/components/Aurora'
 import CircularText    from '@/components/CircularText'
 import CircularGallery from '@/components/CircularGallery'
 import DecryptedText   from '@/components/DecryptedText'
-import GradientText    from '@/components/GradientText'
 import DragReveal      from '@/components/DragReveal'
-import LetterGlitch    from '@/components/LetterGlitch'
 
 import DarkVeilCode        from '@/components/DarkVeil.tsx?raw'
 import AuroraCode          from '@/components/Aurora.tsx?raw'
 import CircularGalleryCode from '@/components/CircularGallery.tsx?raw'
 import DecryptedTextCode   from '@/components/DecryptedText.tsx?raw'
-import GradientTextCode    from '@/components/GradientText.tsx?raw'
 import DragRevealCode      from '@/components/DragReveal.tsx?raw'
-import LetterGlitchCode    from '@/components/LetterGlitch.tsx?raw'
 
 // ── Types ───────────────────────────────────────────────────────────
 interface ComponentData {
